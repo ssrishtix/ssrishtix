@@ -1,4 +1,4 @@
-### Hii, I'm Srishti!
+### Hii, I'm Srishti!👋
 
 🎓 I am a college student at SRM University, currently pursuing my Bachelor's degree in Artificial Intelligence.</br>
 
