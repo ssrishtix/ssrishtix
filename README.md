@@ -4,7 +4,6 @@
 
 ## About Me
 - 🤖 Diving into machine learning, deep learning, and NLP.</br>
-- 📊 Finding insights from data.</br>
 - 💻 Learning Python, R and TensorFlow.</br>
 - 📚 Constantly exploring new tech and skills.</br>
 
