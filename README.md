@@ -1,6 +1,6 @@
 ### Hii, I'm Srishti!👋
 
-🎓 I am a college student at SRM University, currently pursuing my Bachelor's degree in Artificial Intelligence.</br>
+🎓 I am a 2nd year college student at SRM University, currently pursuing my Bachelor's degree in Artificial Intelligence.</br>
 
 ## About Me
 - 🤖 Diving into machine learning, deep learning, and NLP.</br>
