@@ -3,7 +3,7 @@
 🎓 I'm a 2nd year college student at SRM University, currently pursuing my Bachelor's degree in Artificial Intelligence.</br>
 
 ## About Me
-- 🤖 Diving into machine learning, deep learning, and NLP.</br>
+- 🤖 Diving into machine learning and deep learning.</br>
 - 💻 Learning Python, R and TensorFlow.</br>
 - 📚 Constantly exploring new tech and skills.</br>
 
