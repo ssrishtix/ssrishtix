@@ -1,16 +1,28 @@
-### Hii, I'm Srishti!👋
+### Hi, I'm Srishti! 👋  
+🚀 Aspiring AI/ML Engineer | 
 
-🎓 I'm a student at SRM University, currently pursuing my Bachelor's degree in Artificial Intelligence.</br>
+I'm currently pursuing my Bachelor's in Artificial Intelligence at SRM University. I'm building a strong foundation in Python, machine learning, and backend development while working on real-world projects that combine AI with data-driven insights.
 
-## About Me
-- 🤖 Diving into machine learning and deep learning.</br>
-- 💻 Learning Python, R and Pytorch.</br>
-- 📚 Constantly exploring new tech and skills.</br>
+---
 
-## Goals
+## 👩‍💻 What I'm Up To
+- 🔬 Exploring ML, NLP, and deep learning hands-on  
+- 🧩 Practicing DSA in C++ for tech interviews  
+- 🧠 Learning backend development using FastAPI and PostgreSQL  
 
-- Master the basics of programming and data manipulation.
-- Work on fun projects and improve my skills.
-- Connect with the AI and data science community.
+---
+
+## 🛠️ Tech I'm Learning
+- **Languages**: Python, C++, SQL  
+- **Frameworks**: FastAPI, PyTorch, Scikit-learn  
+- **Tools**: Git, Docker, Bash, PostgreSQL  
+- **Domains**: Machine Learning, Data Engineering, MLOps  
+
+---
+
+## 📫 Let's Connect!
+- 📍 [LinkedIn](https://www.linkedin.com/in/srishti-mishra/)
+
+
 
 ![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssrishtix&show_icons=true&theme=radical)
