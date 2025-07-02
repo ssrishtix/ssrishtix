@@ -20,9 +20,6 @@ I'm currently pursuing my Bachelor's in Artificial Intelligence at SRM Universit
 
 ---
 
-## 📫 Let's Connect!
-- 📍 [LinkedIn](https://www.linkedin.com/in/srishti-mishra/)
-
 
 
 ![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssrishtix&show_icons=true&theme=radical)
