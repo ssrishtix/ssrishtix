@@ -19,7 +19,3 @@ I'm currently pursuing my Bachelor's in Artificial Intelligence at SRM Universit
 - **Domains**: Machine Learning, Data Engineering, MLOps  
 
 ---
-
-
-
-![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssrishtix&show_icons=true&theme=radical)
