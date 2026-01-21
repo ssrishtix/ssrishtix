@@ -1,5 +1,5 @@
 ### Hi, I'm Srishti! 👋  
-🚀 Aspiring AI/ML Engineer | 
+🚀 Aspiring AI/ML Engineer 
 
 I'm currently pursuing my Bachelor's in Artificial Intelligence at SRM University. I'm building a strong foundation in Python, machine learning, and backend development while working on real-world projects that combine AI with data-driven insights.
 
