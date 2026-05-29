@@ -13,7 +13,7 @@ I'm currently pursuing my Bachelor's in Artificial Intelligence at SRM Universit
 ---
 
 ## 🛠️ Tech I'm Learning
-- **Languages**: Python, C++, SQL  
+- **Languages**: Python, C++, MySQL 
 - **Frameworks**: FastAPI, PyTorch, Scikit-learn  
 - **Tools**: Git, Docker, Bash, PostgreSQL  
 - **Domains**: Machine Learning, Data Engineering, MLOps  
